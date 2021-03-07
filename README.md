@@ -13,4 +13,7 @@ It is an E-Commerce Web Application
 
 * User can see all the order history.
 
+## LICENSE
+
+[MIT License](https://github.com/Sohan022/BUYYMORE/blob/master/LICENSE.md)
 
