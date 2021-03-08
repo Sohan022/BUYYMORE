@@ -5,13 +5,15 @@ It is an E-Commerce Web Application
 
 ## Features
 
-* User can buy products and provide rating & reviews to that product.
+* Users can buy products and provide ratings & reviews to that product.
 
-* It is for a particular seller. So, only admin can add product to this web application.
+* It is for a particular seller. So, Only admin can add product..
 
-* I have implemented a payment gateway RazorPay through which users can by Card, UPI, Net Banking, etc. There is also a COD method to buy product.
+* I have implemented a payment gateway RazorPay through which users can by Card, UPI, Net Banking, etc. There is also a COD method to buy products.
 
-* User can see all the order history.
+* Users can see all the order history.
+
+* I have also uses JWT for login and token will expire after 15 days.
 
 ## LICENSE
 
